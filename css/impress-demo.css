@@ -695,7 +695,7 @@ a:focus {
 .impress-enabled #impress { pointer-events: auto }
 
 
-#cel img,#gcon img,#radeon img,#batman img,#book img,#ay img,#at img,#speaker img,#earth img,#tumbler img,#city img{
+#cel img,#gcon img,#radeon img,#batman img,#book img,#ay img,#at img,#speaker img,#earth img,#tumbler img,#city img,#coursera img,#cert img,#fegg img,#vnc img,#vnc1 img,#sketch1 img,#sketch2 img{
  display: block;
     margin-left: auto;
     margin-right: auto;
@@ -706,7 +706,8 @@ box-shadow: 0px 0px 8px 0px #888888 ;
 
 }
 
-#container div,#container2 div,#container3 div {
+
+#container div,#container2 div,#container3 div,#container4 div,#container5 div {
     background: rgba(255,255,255,0.5);
     max-width: auto;
     max-height: auto;
